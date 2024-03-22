@@ -1,0 +1,7 @@
+{
+  "name": "RTDBHOME",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
