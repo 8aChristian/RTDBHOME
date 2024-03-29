@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "rtdb-iot-5309b": {
+      "hosting": {
+        "app": [
+          "rtdb-iot-5309b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "rtdb-iot-5309b"
+  }
+}
